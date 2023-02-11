@@ -1,0 +1,9 @@
+[submodule "src/3rdparties/glm"]
+	path = src/3rdparties/glm
+	url = https://github.com/g-truc/glm
+[submodule "src/3rdparties/assimp"]
+	path = src/3rdparties/assimp
+	url = https://github.com/assimp/assimp
+[submodule "src/3rdparties/SDL"]
+	path = src/3rdparties/SDL
+	url = https://github.com/libsdl-org/SDL
